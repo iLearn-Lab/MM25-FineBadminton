@@ -1,6 +1,6 @@
 # FineBadminton: A Multi-Level Fine-Grained Dataset for Badminton Video Understanding
 
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://finebadminton.github.io/FineBadminton/)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://ilearn-lab.github.io/MM25-FineBadminton/)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Finebadminton--20K-f6c343)](https://huggingface.co/datasets/Moujuruo/Finebadminton-20K)
 [![Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-FineBadmintonBenchmark-f59e0b)](https://huggingface.co/datasets/Moujuruo/FineBadmintonBenchmark)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
@@ -13,7 +13,7 @@ Fine-grained analysis of complex and high-speed sports like badminton presents a
 
 ## Resources
 
-- [Project page](https://finebadminton.github.io/FineBadminton/)
+- [Project page](https://ilearn-lab.github.io/MM25-FineBadminton/)
 - [Dataset link: Finebadminton-20K](https://huggingface.co/datasets/Moujuruo/Finebadminton-20K)
 - [Benchmark link: FineBadmintonBenchmark](https://huggingface.co/datasets/Moujuruo/FineBadmintonBenchmark)
 
