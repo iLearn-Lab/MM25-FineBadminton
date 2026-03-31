@@ -1,5 +1,9 @@
 # FineBadminton: A Multi-Level Fine-Grained Dataset for Badminton Video Understanding
 
+**Xusheng He<sup>1</sup>, Wei Liu<sup>1</sup>, Shanshan Ma<sup>2</sup>, Qian Liu<sup>3</sup>, Chenghao Ma<sup>2</sup>, Jianlong Wu<sup>1</sup>**  
+<sup>1</sup> Harbin Institute of Technology, Shenzhen, China  
+<sup>2</sup> China Electronics Standardization Institute, China  
+<sup>3</sup> Shandong University, China  
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://ilearn-lab.github.io/MM25-FineBadminton/)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Finebadminton--20K-f6c343)](https://huggingface.co/datasets/Moujuruo/Finebadminton-20K)
 [![Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-FineBadmintonBenchmark-f59e0b)](https://huggingface.co/datasets/Moujuruo/FineBadmintonBenchmark)
